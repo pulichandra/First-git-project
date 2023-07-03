@@ -1,3 +1,4 @@
+//git project
 public class Genarics <T,U>{
     T obj1;
     U obj2;

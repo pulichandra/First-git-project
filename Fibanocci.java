@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //git project
+=======
+/// git project
+>>>>>>> python-programming
 import java.util.Scanner;
 
 public class Fibanocci {
